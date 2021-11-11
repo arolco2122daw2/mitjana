@@ -1,5 +1,5 @@
-1- Versió 0.1 del programa mitjana 2020-2021
+# DAW2 M08UF4 PRÀCTICA 2 CURS 2021-2022 FJE CLOT
 2- Autor: dacomo2021daw2
 3- Per compilar el programa, executa:
 	gcc mitjana.c -o mitjana
-
+Requreix:
